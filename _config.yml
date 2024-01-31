@@ -16,7 +16,7 @@ timezone: Asia/Saigon
 
 title: vm7608 # the main title
 
-tagline: I'm just a newbie who is enthusiastic about AI # it will display as the sub-title
+tagline: "Just an AI enthusiast kiki" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog for developers who love to write and writers who love to develop' 
@@ -29,7 +29,7 @@ github:
   username: vm7608 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: vm76o8 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/images/avt.jpg"
+avatar: "assets/img/avt.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
