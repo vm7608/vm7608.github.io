@@ -2,7 +2,13 @@
 layout: post
 title: Screen and Tmux in Linux
 date: 2024-02-17 11:25 +0700
+
+image:
+  path: https://allthings.how/content/images/wordpress/2020/01/Linux-Screen-Ubuntu.jpg
+  alt: 
 ---
+
+When working with Linux, we may need to run multiple terminal sessions at the same time. Or with AI projects, you may need to run a process that takes a very long time to complete. This can be done using terminal multiplexers such as **Screen** and **Tmux**. In this post, I will introduce you to these two tools and show you how to use them. Gogo! (ง ͡❛ ͜ʖ ͡❛)ว
 
 ## **1. Why Screen and Tmux?**
 
