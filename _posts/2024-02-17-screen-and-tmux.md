@@ -16,7 +16,7 @@ When working with Linux, we may need to run multiple terminal sessions at the sa
 
 - **Screen** and **Tmux** are very useful if you are working on a remote machine via SSH, especially if you are working on a slow connection or need to run a process that takes a very long time to complete. It is also useful if you need to leave a process running after you log out of a machine.
 
-## **1. Screen**
+## **2. Screen**
 
 - What is a Screen Command? &rarr; Linux Screen is a command-line utility for creating and managing multiple Terminal sessions. It lets you create a virtual shell whose process remains running even after the user disconnects from the server.
 
@@ -80,7 +80,7 @@ defscrollback 10000
 Esc + :wq
 ```
 
-## **2. Tmux**
+## **3. Tmux**
 
 - What is a Tmux Command? &rarr; Tmux is also a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 
@@ -113,13 +113,13 @@ tmux kill-session -t <session_name>
 
 - Tmux have much more features than Screen. I will update this section if I switch to Tmux one day =)).
 
-## **3. Conclusion**
+## **4. Conclusion**
 
 - **Tmux** and **Screen** are powerful terminal multiplexers that allow us to work on multiple tasks simultaneously and manage remote sessions easily. **Tmux** is more advanced and provides more customization options. However, it may not be available on all systems and may require some setup. On the other hand, **Screen** is a more widely available tool that is simpler to use but has fewer features.
 
 - **WARNING:** maybe some of the commands above are not correct, I will update them when I have time. Thank you for reading! ༼ つ ◕_◕ ༽つ
 
-## **4. References**
+## **5. References**
 
 - [How to use the Linux Screen Command](https://vegastack.com/tutorials/how-to-use-linux-screen-command/)
 
