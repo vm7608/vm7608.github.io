@@ -10,6 +10,8 @@ image:
   alt: 
 ---
 
+Đây chỉ đơn giản là một bài viết tổng hợp "link teen" về  GIT. Hope it helps!
+
 ## **1. Một số khái niệm**
 
 ### **Các thuật ngữ cơ bản**
