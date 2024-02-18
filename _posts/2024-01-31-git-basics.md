@@ -2,7 +2,7 @@
 layout: post
 title: Git Basics
 date: 2024-01-31 21:02 +0700
-categories: [Tools]
+categories: [Tools, Git]
 tags: [Git]
 
 image:

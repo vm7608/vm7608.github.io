@@ -2,8 +2,8 @@
 layout: post
 title: Screen and Tmux in Linux
 date: 2024-02-17 11:25 +0700
-categories: [Tools]
-tags: [Linux]
+categories: [Tools, Linux]
+tags: [Screen, Tmux]
 
 image:
   path: https://allthings.how/content/images/wordpress/2020/01/Linux-Screen-Ubuntu.jpg
